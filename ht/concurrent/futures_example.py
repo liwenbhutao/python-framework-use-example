@@ -1,7 +1,6 @@
 import logging
-from time import sleep
-
 from concurrent import futures
+from time import sleep
 
 
 def loiter(n):
